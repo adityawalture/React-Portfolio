@@ -8,9 +8,9 @@ const meta = {
 const introdata = {
     title: "Aditya Walture",
     animated: {
-        first: "I love coding",
-        second: "I code cool apps",
-        third: "I develop mobile apps",
+        first: "I love coding Flutter, Python ",
+        second: "I develop mobile apps",
+        //third: "I develop mobile apps",
     },
     description: "I’m Aditya pre-final year student, a data enthusiast and a Flutter developer, currently persuing Integrated Mtch degree in CSE spz. Ai & Ml",
     location : "      VIT Bhopal",
@@ -113,7 +113,7 @@ const dataportfolio = [{
     {
         img: require("../src/assets/images/expense_tracker.png"),
         description: "A expense tracking app built in flutter framework.",
-        link: "#https://github.com/adityawalture/flutter_Expense_tracking_app",
+        link: "https://github.com/adityawalture/flutter_Expense_tracking_app",
     },
     {
         img: require("../src/assets/images/ml.jpg"),
